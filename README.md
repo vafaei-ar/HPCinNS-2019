@@ -2,7 +2,7 @@
 
 <div align="center">   
 
-<img src="./images/poster.jpg" width="400"/>
+<img src="./images/poster.png" width="400"/>
 
 </div>  
 
@@ -10,7 +10,7 @@
 
   1. **Linux** is always recomennded as OS! We will know more about Linux story.
 
-  2. Install **Anaconda**[^2], **multiprocessing** and **joblib**. You can use bellow command for installation:
+  2. Install **Anaconda**[^1], **multiprocessing** and **joblib**. You can use bellow command for installation:
   
         ```$ pipi install joblib multiprocessing```
   
